@@ -1,6 +1,6 @@
 {
   "name": "formio-sam",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "JavaScript powered Forms with JSON Form Builder",
   "main": "lib/cjs/index.js",
   "types": "index.d.ts",
